@@ -1,4 +1,4 @@
-# Python Application for Vaccine Scheduler
+# Vaccine Appointment System with Azure SQL 
 #  Overview
 Developed during the pandemic peak, this system enables:
 
