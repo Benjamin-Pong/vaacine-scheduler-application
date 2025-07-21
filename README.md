@@ -23,4 +23,21 @@ Real-time vaccine dose tracking
 
 Role-based views for appointments
 
+# File Structure
+```text
+src/
+├── main/
+│   ├── scheduler/
+│   │   └── Scheduler.py          # CLI entry point (command parser/handler)
+│   ├── db/
+│   │   └── ConnectionManager.py  # Azure DB connector (handles connections/cursors)
+│   ├── model/                    # Database entity classes
+│   │   ├── Caregiver.py          # Caregiver CRUD operations (provided)
+│   │   ├── Vaccine.py            # Vaccine inventory management (provided)
+│   │   └── Patient.py            # Patient operations (implemented by student)
+│   └── resources/
+│       ├── create.sql            # SQL schema definitions
+│       └── design.pdf            # ER diagram (student-submitted)
+```
+
 
