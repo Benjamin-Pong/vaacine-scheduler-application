@@ -44,9 +44,10 @@ src/
 
 Database Architecture
 1. Entity-Relationship Diagram
+   
 
-Visual schema showing relationships between entities
+Visual schema showing relationships between entities: See resources/design.pdf
 
 2. Schema Implementation
-Key tables created via create.sql
+Key tables created: See resources/create.sql
 
