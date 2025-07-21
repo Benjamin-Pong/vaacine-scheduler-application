@@ -2,11 +2,11 @@
 #  Overview
 Developed during the pandemic peak, this system enables:
 
-Patients to book/cancel/view vaccination appointments
+- Patients to book/cancel/view vaccination appointments
 
-Caregivers to manage availability and vaccine inventory
+- Caregivers to manage availability and vaccine inventory
 
-Secure authentication via salted password hashing
+- Secure authentication via salted password hashing
 
 # Technical Implementation
 Backend: Python with pymssql for Azure SQL Server integration
@@ -23,9 +23,4 @@ Real-time vaccine dose tracking
 
 Role-based views for appointments
 
-src/
-├── main/
-│   ├── scheduler/               # CLI interface
-│   ├── db/                      # Database connection manager
-│   ├── model/                   # Data classes (Patient, Caregiver, Vaccine)
-│   └── resources/               # SQL schema files
+
