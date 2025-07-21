@@ -40,4 +40,13 @@ src/
 │       └── design.pdf            # ER diagram (student-submitted)
 ```
 
+# Relational Database Design
+
+Database Architecture
+1. Entity-Relationship Diagram
+
+Visual schema showing relationships between entities
+
+2. Schema Implementation
+Key tables created via create.sql
 
