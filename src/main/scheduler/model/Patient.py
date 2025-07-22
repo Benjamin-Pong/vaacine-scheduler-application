@@ -1,6 +1,3 @@
-'''
-Benjamin Pong CSE 414 Homework 6
-'''
 
 
 import sys
