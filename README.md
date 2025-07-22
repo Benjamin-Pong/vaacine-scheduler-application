@@ -1,4 +1,4 @@
-# Vaccine Appointment System with Azure SQL 
+# Vaccine Appointment System with Microsoft Azure SQL 
 #  Overview
 Developed during the pandemic peak, this system enables:
 
