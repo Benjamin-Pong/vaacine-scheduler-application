@@ -1,6 +1,4 @@
-'''Benjamin Pong CSE 414 Homework 6
-Wrote code for extra credit option - 'cancel' function
-'''
+
 
 from model.Vaccine import Vaccine
 from model.Caregiver import Caregiver
