@@ -9,19 +9,19 @@ Developed during the pandemic peak, this system enables:
 - Secure authentication via salted password hashing
 
 # Technical Implementation
-Backend: Python with pymssql for Azure SQL Server integration
+- Backend: Python with pymssql for Azure SQL Server integration
 
-Database: Designed schema for patients, caregivers, vaccines, and appointments
+- Database: Designed schema for patients, caregivers, vaccines, and appointments
 
-Core Features:
+- Core Features:
 
-Patient/caregiver account creation & login
+  - Patient/caregiver account creation & login
 
-Appointment scheduling with caregiver auto-assignment (alphabetical priority)
+  - Appointment scheduling with caregiver auto-assignment (alphabetical priority)
 
-Real-time vaccine dose tracking
+  - Real-time vaccine dose tracking
 
-Role-based views for appointments
+  - Role-based views for appointments
 
 # File Structure
 ```text
